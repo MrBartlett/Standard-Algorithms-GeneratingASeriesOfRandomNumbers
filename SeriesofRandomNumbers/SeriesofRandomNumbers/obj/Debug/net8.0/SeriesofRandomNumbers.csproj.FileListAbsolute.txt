@@ -1,0 +1,14 @@
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\bin\Debug\net8.0\SeriesofRandomNumbers.exe
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\bin\Debug\net8.0\SeriesofRandomNumbers.deps.json
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\bin\Debug\net8.0\SeriesofRandomNumbers.runtimeconfig.json
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\bin\Debug\net8.0\SeriesofRandomNumbers.dll
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\bin\Debug\net8.0\SeriesofRandomNumbers.pdb
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.AssemblyInfoInputs.cache
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.AssemblyInfo.cs
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.dll
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\refint\SeriesofRandomNumbers.dll
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.pdb
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\SeriesofRandomNumbers.genruntimeconfig.cache
+C:\Users\hayde\source\repos\Standard-Algorithms-GeneratingASeriesOfRandomNumbers\SeriesofRandomNumbers\SeriesofRandomNumbers\obj\Debug\net8.0\ref\SeriesofRandomNumbers.dll
